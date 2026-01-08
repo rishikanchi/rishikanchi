@@ -1,4 +1,4 @@
-## Hi, I'm Rishi Kanchi, a computer science student at Columbia
+## Hi, I'm Rishi Kanchi, a computer science student at Columbia.
 
 <!--
 **rishikanchi/rishikanchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
